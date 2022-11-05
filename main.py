@@ -1,5 +1,5 @@
 
-
+#Ethan Yitzhaky
 #step 1
 import csv
 dataset=open('Data.csv','r')
