@@ -70,7 +70,7 @@ for i,li in enumerate(data):
         months=li[7:13]
     elif i==10:
         for j in li[7:13]:
-            sales=int(j)+int(j)*-0.017
+            sales=int(j)+int(j)*growthrate
             ans.append(sales)
 stats.write(f'last 6 months of 2022,{ans}\n')
 
