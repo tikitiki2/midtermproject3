@@ -2,7 +2,6 @@
 
 
 
-#Ethan Yitzhaky
 
 #step 1
 import csv
